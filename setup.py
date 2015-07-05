@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
   name = 'buildbot-try',
-  packages = ['buildbot-try'],
-  version = '0.1',
+  packages = ['buildbot_try'],
+  version = '0.1.1',
   description = 'Buildbot Try Client',
   author = 'Varun Sharma',
   author_email = 'varun@sharmalabs.org',
