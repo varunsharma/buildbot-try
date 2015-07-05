@@ -1,6 +1,7 @@
 ============
 buildbot-try
 ============
+The try client for buildbot.
 
 Installation
 ============
