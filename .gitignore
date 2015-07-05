@@ -1,2 +1,5 @@
 .pypirc
 dist/
+*.pyc
+*.egg-info
+MANIFEST
